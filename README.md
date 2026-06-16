@@ -1,2 +1,28 @@
-# c26fac3a-therapy-counseling-practice
-missing messages, manually responding to routine requests at all hours costs you real money. This automation bot pays for itself in one use.  Easy setup: invite → configure → active in under 10 minutes. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Therapy &amp; Counseling Practice Community — fully conf
+# Therapy & Counseling Practice Community Manager Discord Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI9ATdPp7Eo8FG1ZicZs3V)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI9ATdPp7Eo8FG1ZicZs3V)
+
